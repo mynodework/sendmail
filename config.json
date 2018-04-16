@@ -1,0 +1,6 @@
+{
+	"smtp_host": "smtp.gmail.com",
+	"username": "etesting12@gmail.com",
+	"port": 465,
+	"password": "java@123"
+}
